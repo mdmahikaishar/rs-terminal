@@ -1,0 +1,11 @@
+[package]
+name = "rs-terminal"
+version = "0.1.0"
+description = "Modern rust terminal."
+authors = ["mdmahikaishar <mahikaishar@gmail.ocm>"]
+edition = "2021"
+repository = "https://github.com/mdmahikaishar/rs-terminal"
+keywords = ["rs-terminal", "terminal", "console"]
+license = "MIT"
+readme = "README.md"
+include = ["src/**", "README.md"]
